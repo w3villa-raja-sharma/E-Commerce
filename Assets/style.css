@@ -1,39 +1,5 @@
-*{
-    font-family: "Roboto", sans-serif;
- 
-}
-.main-wrapper{
-    height: 100px;
-    width: 100%;
-    background-image: linear-gradient(rgb(9,0,77,0,0.65) ,rgba(9,0,77,0.65)), url(Assets/Images/bg-mage.jpg);
-    min-height: 100vh;
-    background-size: cover;
-    background-position: center;
-
-}
-.main-wrapper nav{
-   
-
-
-}
-.nav{
-    display:flex
-}
- .logo img{
-    width:60px;
-    
-}
-
-.left  li{
-    display: inline;
-    list-style-type: none;
-}
-.right  li{
-    display: inline;
-    list-style-type: none;
-}
-
-.center  li{
-    display: inline;
-    list-style-type: none;
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #f1f1f1;
 }
