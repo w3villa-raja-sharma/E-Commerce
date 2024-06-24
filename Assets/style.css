@@ -7,6 +7,9 @@ body{
 li {
   list-style-type: none;
 }
+.m_l{
+  margin-left: 11px;
+}
 
 :root{
     --bg-primary: #2651d6;
@@ -35,6 +38,7 @@ li {
 }
 .bg-primary{
     background-color: var(--bg-primary);
+ 
 }
 .text-white{
     color: white
@@ -587,7 +591,6 @@ li {
 
 
 /* Header */
-
 
 header .tophead{
     background-color:white;
